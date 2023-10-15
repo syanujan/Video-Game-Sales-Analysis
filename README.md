@@ -51,6 +51,7 @@ In the Machine Learning Models section, multiple regression models were created 
 As a result, every attribute in the dataset was fed into the model, excluding EU Sales, JP Sales, and Other Country Sales. The attributes were fed into their respective feature transformation pipelines respective of their data types (numerical and categorical).
 
 Summary of Machine Learning Models:
+
  Ridge() 
  Model Accuracy: 86.26%
 
