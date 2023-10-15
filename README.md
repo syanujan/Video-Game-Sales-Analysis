@@ -29,6 +29,8 @@ Summary of Trend Plotting:
 1. The general trend that can be seen is that when a newer generation console is released, the previous console's title sales see a decline, while the newer generation console's title sales increase.
 2. Each generation of the console, regardless of console family, sees a peak in their sales during a certain time prior to title sales declining. The newer generation consoles are always released once the previous generation sees a considerable decline in sales.
 
+*More TBA
+
 ---
 
 Statistical tests will be utilized to determine if the below factors contributed to statistically proving if global sales were different, or not different from each other. The null hypothesis, H0, will be that the factors are not statistically different, while H1 is that they are statistically different. An alpha value of 0.05 will be utilized. The SciPy library will be generally utilized in this section to undergo the statistical tests. Features were engineered to better define possible factors affecting global sales of video games.
